@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @derrick-vwd
-- 👀 I’m interested in Java and JavaScript.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on any Java project, or Monero.
+- 👀 I’m interested in PHP, C and JavaScript.
+- 🌱 I’m currently learning C.
+- 💞️ I’m looking to collaborate on any PHP project, or Monero.
 - 📫 How to reach me derrick.thornton.dev@gmail.com 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like cryptocurrency and video streaming.
